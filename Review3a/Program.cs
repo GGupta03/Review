@@ -1,4 +1,21 @@
-﻿using System;
+﻿/*3 OOP + Collections + Grouping Logic(Manual)
+Q3: Product Grouping
+Create a Product class with :
+Name
+Category
+Price
+
+Task:
+Store products in a List<Product>.
+Group products manually by category using:
+Dictionary<string, List<Product>>
+For each category:
+Count number of products
+Calculate average price
+sort the Product on the bases of Price and 
+Print the result.*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
